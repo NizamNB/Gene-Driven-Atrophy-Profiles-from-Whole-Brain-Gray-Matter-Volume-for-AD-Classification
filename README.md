@@ -47,15 +47,15 @@ Moves beyond purely structural MRI analysis by incorporating biological interpre
 Proposes GDAPs as a novel representation of gene-informed brain atrophy.
 Demonstrates how spatial gene expression can guide deep learning models for improved disease classification.
 ## Tech Stack
-Matlab
-SPM12 tool
-CAT12
-Python
-PyTorch / TensorFlow
-Neuroimaging tools (SPM, SimpleITK, or Nilearn)
-Gene expression datasets (e.g., MedUni Vienna Predicted mRNA Maps)
+* Matlab
+* SPM12 tool
+* CAT12
+* Python
+* PyTorch / TensorFlow
+* Neuroimaging tools (SPM, SimpleITK, or Nilearn)
+* Gene expression datasets (e.g., MedUni Vienna Predicted mRNA Maps)
 
 ## Acknowledgments
-Public neuroimaging datasets (e.g., OASIS-2)//
-MedUni Vienna Predicted mRNA Maps
-Open-source neuroimaging and machine learning communities
+* Public neuroimaging datasets (e.g., OASIS-2)
+* MedUni Vienna Predicted mRNA Maps
+* Open-source neuroimaging and machine learning communities
