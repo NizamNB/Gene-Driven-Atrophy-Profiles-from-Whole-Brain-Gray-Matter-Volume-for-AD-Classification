@@ -1,0 +1,2 @@
+# Gene-Driven-Atrophy-Profiles-from-Whole-Brain-Gray-Matter-Volume-for-AD-Classification
+This project presents a novel, biologically-informed framework for classifying AD from structural MRI by integrating neuroimaging with spatial gene expression data. Instead of treating brain atrophy as purely structural, the approach incorporates molecular context to better capture the mechanisms driving regional vulnerability.
