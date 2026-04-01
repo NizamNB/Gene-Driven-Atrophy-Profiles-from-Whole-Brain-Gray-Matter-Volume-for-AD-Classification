@@ -56,6 +56,6 @@ Neuroimaging tools (SPM, SimpleITK, or Nilearn)
 Gene expression datasets (e.g., MedUni Vienna Predicted mRNA Maps)
 
 ## Acknowledgments
-Public neuroimaging datasets (e.g., OASIS-2)
+Public neuroimaging datasets (e.g., OASIS-2)//
 MedUni Vienna Predicted mRNA Maps
 Open-source neuroimaging and machine learning communities
